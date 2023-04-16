@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "643954061665be9273f919bd",
+    "name": "Camiseta branca",
+    "quantity": 50,
+    "price": 29.9,
+    "createdAt": "2023-04-14T13:24:22.521Z",
+    "updatedAt": "2023-04-14T13:24:22.521Z",
+    "__v": 0
+  },
+  {
+    "_id": "643954061665be9273f919c0",
+    "name": "Boné azul",
+    "quantity": 80,
+    "price": 19.9,
+    "createdAt": "2023-04-14T13:24:22.521Z",
+    "updatedAt": "2023-04-14T13:24:22.521Z",
+    "__v": 0
+  },
+  {
+    "_id": "643954061665be9273f919be",
+    "name": "Calça jeans",
+    "quantity": 30,
+    "price": 89.9,
+    "createdAt": "2023-04-14T13:24:22.521Z",
+    "updatedAt": "2023-04-14T13:24:22.521Z",
+    "__v": 0
+  },
+  {
+    "_id": "643954061665be9273f919bf",
+    "name": "Tênis preto",
+    "quantity": 20,
+    "price": 159.99,
+    "createdAt": "2023-04-14T13:24:22.521Z",
+    "updatedAt": "2023-04-14T13:24:22.521Z",
+    "__v": 0
+  },
+  {
+    "_id": "643954061665be9273f919c4",
+    "name": "Sandália rasteira",
+    "quantity": 40,
+    "price": 49.9,
+    "createdAt": "2023-04-14T13:24:22.522Z",
+    "updatedAt": "2023-04-14T13:24:22.522Z",
+    "__v": 0
+  },
+  {
+    "_id": "643954061665be9273f919c1",
+    "name": "Vestido vermelho",
+    "quantity": 15,
+    "price": 99.9,
+    "createdAt": "2023-04-14T13:24:22.521Z",
+    "updatedAt": "2023-04-14T13:24:22.521Z",
+    "__v": 0
+  },
+  {
+    "_id": "643954061665be9273f919c2",
+    "name": "Camisa social listrada",
+    "quantity": 25,
+    "price": 79.9,
+    "createdAt": "2023-04-14T13:24:22.522Z",
+    "updatedAt": "2023-04-14T13:24:22.522Z",
+    "__v": 0
+  },
+  {
+    "_id": "643954061665be9273f919c3",
+    "name": "Bolsa de couro",
+    "quantity": 10,
+    "price": 239.99,
+    "createdAt": "2023-04-14T13:24:22.522Z",
+    "updatedAt": "2023-04-14T13:24:22.522Z",
+    "__v": 0
+  },
+  {
+    "_id": "643954061665be9273f919c5",
+    "name": "Óculos de sol",
+    "quantity": 60,
+    "price": 69.9,
+    "createdAt": "2023-04-14T13:24:22.522Z",
+    "updatedAt": "2023-04-14T13:24:22.522Z",
+    "__v": 0
+  },
+  {
+    "_id": "643954061665be9273f919c6",
+    "name": "Shorts jeans",
+    "quantity": 35,
+    "price": 59.9,
+    "createdAt": "2023-04-14T13:24:22.522Z",
+    "updatedAt": "2023-04-14T13:24:22.522Z",
+    "__v": 0
+  }
+]
